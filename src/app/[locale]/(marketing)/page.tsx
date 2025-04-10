@@ -107,6 +107,7 @@ export default function Index() {
               width: '100%',
               border: 'none',
               boxShadow: 'none',
+              maxWidth: '300px', 
             }}
           />
         </ConfigProvider>
