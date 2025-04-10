@@ -7,7 +7,7 @@ import testingLibrary from 'eslint-plugin-testing-library';
 
 export default antfu({
   react: true,
-  typescript: true,
+  typescript: false,
 
   lessOpinionated: true,
   isInEditor: false,

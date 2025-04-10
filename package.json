@@ -39,6 +39,7 @@
     "@sentry/nextjs": "^8.55.0",
     "@spotlightjs/spotlight": "^2.12.0",
     "@t3-oss/env-nextjs": "^0.12.0",
+    "antd": "^5.24.6",
     "drizzle-orm": "^0.41.0",
     "next": "^15.2.4",
     "next-intl": "^3.26.5",

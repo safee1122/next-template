@@ -3,7 +3,7 @@ export const BaseTemplate = (props: {
 }) => {
   return (
     <div className="w-full px-1 text-gray-700 antialiased">
-      <div className="mx-auto max-w-screen-md">
+      <div className="mx-auto">
         <main>{props.children}</main>
       </div>
     </div>
